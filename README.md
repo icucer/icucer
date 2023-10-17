@@ -1,6 +1,6 @@
-# Bienvenidos a mi perfil de GitHub &#x1F44B;
+![Mi Foto](https://github.com/icucer/Ion/blob/main/IMG_1.jpeg)
 
-![Mi foto](Documents\Ion\Ion\IMG_0366 (1).jpg)
+# Bienvenidos a mi perfil de GitHub &#x1F44B;
 
 ## Informacion sobre mi:
 
