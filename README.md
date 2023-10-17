@@ -1,5 +1,7 @@
 # Bienvenidos a mi perfil de GitHub &#x1F44B;
 
+![Mi foto](Documents\Ion\Ion\IMG_0366 (1).jpg)
+
 ## Informacion sobre mi:
 
 Fui nacido y creado en _Republica de Moldavia_. En año 2007 tuve la oportunidad de viajar a _Estados Unidos_, donde 
@@ -14,9 +16,18 @@ Mas informacion puedes consultar mi LinkedIn.
 ## Que podras incontrar en este perfil:
 
 ***1. Repositorios de los trabajos ejecutados en instituto***
+---
+a)  [Fahrenheit a Celsius o Celsius a Fahrenheit](https://github.com/icucer/convertidor_temperatura)<br>
+b)  [Calculo del promedio](https://github.com/icucer/Calculador-del-promedio)<br>
+c)  [Nota de presentacion](https://github.com/icucer/Nota-de-presentacion)<br>
+d)  [Calcular digito verificador del RUT](https://github.com/icucer/Nota-de-presentacion)
+
 
 ***2. Repositorio de las certificaciones logradas***
+---
+a)  Certificado de la certificación de Python
 
 ***3. Algunos enlaces de material consultado***
+---
 
 ¡Espero que tengas mucho éxito en tus proyectos y continuas aprendizajes!
