@@ -1,7 +1,5 @@
 # Bienvenidos a mi perfil de GitHub &#x1F44B;
 
-![Mi foto](Documents\Ion\Ion\IMG_0366 (1).jpg)
-
 ## Informacion sobre mi:
 
 Fui nacido y creado en _Republica de Moldavia_. En año 2007 tuve la oportunidad de viajar a _Estados Unidos_, donde 
