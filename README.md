@@ -25,7 +25,7 @@ d)  [Calcular digito verificador del RUT](https://github.com/icucer/Nota-de-pres
 
 ***2. Repositorio de las certificaciones logradas***
 ---
-a)  Certificado de la certificación de Python
+a)  Certificado Python
 
 ***3. Algunos enlaces de material consultado***
 ---
