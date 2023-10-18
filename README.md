@@ -17,11 +17,16 @@ Mas informacion puedes consultar en mi LinkedIn.
 
 ***1. Repositorios de los trabajos ejecutados en instituto***
 ---
+## Modulo 1
 a)  [Fahrenheit a Celsius o Celsius a Fahrenheit](https://github.com/icucer/convertidor_temperatura)<br>
 b)  [Calculo del promedio](https://github.com/icucer/Calculador-del-promedio)<br>
 c)  [Nota de presentacion](https://github.com/icucer/Nota-de-presentacion)<br>
 d)  [Calcular digito verificador del RUT](https://github.com/icucer/Nota-de-presentacion)
-
+## Modulo 2
+a)  [Dibujar una matriz de n celdas](https://github.com/icucer/Ejercicio_1_M2)<br>
+b)  [Juego de numeros](https://github.com/icucer/Ejercicio_2_M2)<br>
+c)  [Calculador de años bisiestos](https://github.com/icucer/Ejercicio_3_M2)<br>
+d)  [Codificación de la frase](https://github.com/icucer/Ejercicio_4_M2)
 
 ***2. Repositorio de las certificaciones logradas***
 ---
