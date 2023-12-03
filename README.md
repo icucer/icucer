@@ -17,12 +17,12 @@ Mas informacion puedes consultar en mi LinkedIn.
 
 ***1. Repositorios de los trabajos ejecutados en instituto***
 ---
-## Modulo 1
+## Modulo 1 (100% Python)
 a)  [Fahrenheit a Celsius o Celsius a Fahrenheit](https://github.com/icucer/convertidor_temperatura)<br>
 b)  [Calculo del promedio](https://github.com/icucer/Calculador-del-promedio)<br>
 c)  [Nota de presentacion](https://github.com/icucer/Nota-de-presentacion)<br>
 d)  [Calcular digito verificador del RUT](https://github.com/icucer/Nota-de-presentacion)
-## Modulo 2
+## Modulo 2 (100% Python)
 a)  [Dibujar una matriz de n celdas](https://github.com/icucer/Ejercicio_1_M2)<br>
 b)  [Juego de numeros](https://github.com/icucer/Ejercicio_2_M2)<br>
 c)  [Calculador de años bisiestos](https://github.com/icucer/Ejercicio_3_M2)<br>
@@ -35,4 +35,4 @@ a)  [Certificado Python](https://github.com/icucer/Ion/blob/main/certificate_ZH5
 ***3. Algunos enlaces de material consultado***
 ---
 
-¡Espero que tengas mucho éxito en tus proyectos y continuas aprendizajes!
+¡Espero que tengas mucho éxito en tus proyectos y continuo aprendizajes!
