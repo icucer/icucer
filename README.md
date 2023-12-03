@@ -21,7 +21,7 @@ Mas informacion puedes consultar en mi LinkedIn.
 a)  [Fahrenheit a Celsius o Celsius a Fahrenheit](https://github.com/icucer/convertidor_temperatura)<br>
 b)  [Calculo del promedio](https://github.com/icucer/Calculador-del-promedio)<br>
 c)  [Nota de presentacion](https://github.com/icucer/Nota-de-presentacion)<br>
-d)  [Calcular digito verificador del RUT](https://github.com/icucer/Nota-de-presentacion)
+d)  [Calcular digito verificador del RUT](https://github.com/icucer/Calcular-el-digito-verificador-RUT)
 ## Modulo 2 (100% Python)
 a)  [Dibujar una matriz de n celdas](https://github.com/icucer/Ejercicio_1_M2)<br>
 b)  [Juego de numeros](https://github.com/icucer/Ejercicio_2_M2)<br>
