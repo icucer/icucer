@@ -35,4 +35,4 @@ a)  [Certificado Python](https://github.com/icucer/Ion/blob/main/certificate_ZH5
 ***3. Algunos enlaces de material consultado***
 ---
 
-¡Espero que tengas mucho éxito en tus proyectos y continuo aprendizajes!
+¡Espero que tengas mucho éxito en tus proyectos y continuo aprendizaje!
