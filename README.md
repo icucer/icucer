@@ -11,7 +11,7 @@ Soy una persona proactiva que constantemente busca adquirir nuevos conocimientos
 
 Mi pasión por la tecnología me llevó a estudiar Análisis de Sistemas en instituto _"IPP"_. Creo que los desarrolladores no tienen límites en su creatividad, ya que un mismo problema puede resolverse de diferentes maneras, y eso es lo que llamo mi atención e interés. Dejando su propia huella sobre el proyecto en cual estas participando.
 
-Mas informacion puedes consultar en mi LinkedIn.
+Mas informacion puedes consultar en mi [LinkedIn](https://www.linkedin.com/in/ion-cucer).
 
 ## Que podras incontrar en este perfil:
 
@@ -27,6 +27,8 @@ a)  [Dibujar una matriz de n celdas](https://github.com/icucer/Ejercicio_1_M2)<b
 b)  [Juego de numeros](https://github.com/icucer/Ejercicio_2_M2)<br>
 c)  [Calculador de años bisiestos](https://github.com/icucer/Ejercicio_3_M2)<br>
 d)  [Codificación de la frase](https://github.com/icucer/Ejercicio_4_M2)
+## Modulo 3 (100% Python)
+a)  [Trabajo nr. 3](https://github.com/icucer/Ejercicio_1_M2)
 
 ***2. Repositorio de las certificaciones logradas***
 ---
