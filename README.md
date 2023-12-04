@@ -28,7 +28,7 @@ b)  [Juego de numeros](https://github.com/icucer/Ejercicio_2_M2)<br>
 c)  [Calculador de años bisiestos](https://github.com/icucer/Ejercicio_3_M2)<br>
 d)  [Codificación de la frase](https://github.com/icucer/Ejercicio_4_M2)
 ## Modulo 3 (100% Python)
-a)  [Trabajo nr. 3](https://github.com/icucer/Ejercicio_1_M2)
+a)  [Trabajo nr. 3](https://github.com/icucer/Trabajo-numero-3)
 
 ***2. Repositorio de las certificaciones logradas***
 ---
